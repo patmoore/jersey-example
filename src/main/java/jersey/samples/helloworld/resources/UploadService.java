@@ -35,7 +35,7 @@ public class UploadService {
 // @Context
 // protected HttpServletRequest request;
 
- public static final String WORKING = "/Users/patmoore/projects/jersey-examples/working/";
+ public static final String WORKING = "working/";
 
 @POST
  @Consumes(MediaType.MULTIPART_FORM_DATA)
